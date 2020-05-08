@@ -1,0 +1,16 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Weather app",
+  "main": "weather.js",
+  "scripts": {
+    "start": "node weather.js",
+    "test": "test"
+  },
+  "author": "Caleb Bridges",
+  "license": "ISC",
+  "depnpmendencies": {
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.28"
+  }
+}

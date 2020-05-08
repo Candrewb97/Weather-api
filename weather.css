@@ -1,0 +1,61 @@
+.container{
+    width: 800px;
+    height: 500px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 15%;
+}
+
+body {
+    background-image: url('https://openweathermap.org/themes/openweathermap/assets/img/new-history-forecast-bulk.png');
+    background-size: cover;
+    background-repeat: none;
+    min-height: 100vh;
+    color:black;
+}
+
+.inputValue {
+    background-color: rgba(0, 0, 0, 0.377);
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding: 5px 7px;
+    
+}
+.apptitle{
+    font-size: 50px;
+    font-weight: 400;
+    
+}
+
+.temperature{
+    font-size: 60px;
+    font-weight: 400;
+    background-color: rgba(0, 0, 0, 0.397);
+    color: white;
+    width: 280px;
+    height: 90px;
+    margin: 0 auto;
+    border-radius: 15px ;
+    padding: 20px;
+
+}
+.city{
+    font-size: 32px;
+    font-weight: 400;
+    
+}
+
+.description{
+    font-size: 25px;
+}
+
+#tempbox{
+    font-size: 23px;
+    font-weight: 549;
+    margin-bottom: 15px;
+}
+
+footer{
+    text-align: center;
+}
